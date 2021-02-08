@@ -1,0 +1,51 @@
+div
+{
+    border-radius: 10px;
+    }
+
+    body{
+       border-style: solid 10px;
+    }
+    span {
+        content: "\2713";
+      }
+      ul{
+          list-style-type: none;
+      }
+      .rig{
+          float: right;
+
+      }
+
+
+#name {
+    
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: brown;
+}
+#number{
+
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+    color: brown;
+
+}
+
+#email{
+	font-size: 16px;
+	font-family: Verdana, sans-serif;
+	color: brown;
+}
+
+
+a:hover {
+    font-weight: bold;
+}
+
+
+h3
+{
+    text-decoration: none;
+}
+   
